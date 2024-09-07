@@ -1,4 +1,4 @@
-Flask==4.0.0
+Flask==4.0
 opencv-contrib-python==4.6.0.66
 opencv-python==4.6.0.66
 opencv-python-headless==4.5.4.60
