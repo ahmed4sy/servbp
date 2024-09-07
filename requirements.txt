@@ -1,3 +1,4 @@
 Flask==2.0.1
 opencv-python-headless==4.5.4.60
-easyocr==1.4.1
+numpy
+easyocr
